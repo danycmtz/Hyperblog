@@ -43,3 +43,11 @@ body
 {
     padding: 1em;
 }
+
+#footer
+{
+    background: rgb(210, 255, 150);
+    color: black;
+    text-align: center;
+    padding: 0.5em;
+}
